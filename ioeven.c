@@ -37,3 +37,19 @@ int main (void)
     //printf("%d", input);
 }
 
+// from input to 2 JS
+// let flag = 1;
+// let input = +prompt("Enter number");
+
+// while (input > 1) {
+//     if (input % 2 == 0) {
+//         if (flag == 0) {
+//             console.put(",");
+//         }
+
+//         console.put(input);
+//         flag = 0;
+//     }
+
+//     input--;
+// }
